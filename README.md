@@ -22,27 +22,15 @@ When using the terminal, the user is prompted to enter their Github profile name
 
 ### Code 
 
+![Screenshot (13)](https://user-images.githubusercontent.com/56744605/73628060-f9eb1200-4603-11ea-9252-d9fbabb529dd.png)
+
+![Screenshot (14)](https://user-images.githubusercontent.com/56744605/73628063-ffe0f300-4603-11ea-8d6a-f19253e7119b.png)
+
+![Screenshot (15)](https://user-images.githubusercontent.com/56744605/73628070-053e3d80-4604-11ea-8390-764070491efe.png)
+
+![Screenshot (16)](https://user-images.githubusercontent.com/56744605/73628083-0bccb500-4604-11ea-8d17-ad47562562eb.png)
 
 
-
-
-![alt text](newassets/LaunchModalUsername.png "Create a Username and password")
-
-Once you create you username and password you can see if you are logged in if you see your name in the top right corner
-
-![alt text](newassets/UsernameDisplay.png "You are logged in")
-
-After you login start your search using the search fields on the left
-
-![alt text](newassets/SearchField.png "Start Search")
-
-This will return results and they will show in the cards below on the left, allowing you to add them to a list in your adventure book on the right.
-
-![alt text](newassets/AppendToAdventureBook.png "Search Results")
-
-Once you created your list you can save everything to your adventure book under your account to view later
-
-![alt text](newassets/AdventureBookComplete.png "Save to your Adventure Book")
 
 ## APIs
 
