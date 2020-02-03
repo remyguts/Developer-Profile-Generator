@@ -30,20 +30,27 @@ When using the terminal, the user is prompted to enter their Github profile name
 
 ![Screenshot (16)](https://user-images.githubusercontent.com/56744605/73628083-0bccb500-4604-11ea-8d17-ad47562562eb.png)
 
+Terminal prompts:
+![Screenshot (20)](https://user-images.githubusercontent.com/56744605/73628288-afb66080-4604-11ea-9944-a967ea0ec5b0.png)
 
+
+### PDF View
+
+![Screenshot (17)](https://user-images.githubusercontent.com/56744605/73628398-015eeb00-4605-11ea-841d-2ff50bb40e54.png)
+
+### Deployed Website View 
+(yes I designed it to look like an old school floppy disk)
+
+![Screenshot (18)](https://user-images.githubusercontent.com/56744605/73628550-6286be80-4605-11ea-9d4c-a1e4e27f1fd2.png)
 
 ## APIs
 
-- Skyscanner
-- TripAdvisor
+Github
 
 ## Styles
 
 - CSS Bootstrap
-- Font Awesome
 
-## Project GitHub Participants
+
 
 Remy Guts @remyguts
-Kaitlyn Carlson @KaitlynCarlson
-Marie Lenac @malicemarie
