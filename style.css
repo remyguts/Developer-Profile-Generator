@@ -1,0 +1,32 @@
+#that {
+  background-color: maroon;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+#this {
+  background-color: black;
+  margin: 22px;
+}
+
+#yo {
+  background-color: goldenrod;
+}
+
+.list-group {
+  margin: 100px;
+}
+
+#homie {
+  background-color: rgb(214, 200, 200);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-style: solid;
+  border-color: black;
+}
+
+#mage {
+  border-style: solid;
+  border-color: black;
+  border-width: 10px;
+}
