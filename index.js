@@ -1,4 +1,5 @@
 "use strict";
+//variables requiring specific modules
 const inquirer = require("inquirer");
 const axios = require("axios");
 const util = require("util");
@@ -8,18 +9,7 @@ var PDFDocument, doc;
 var fs = require("fs");
 const writeFileAsync = util.promisify(fs.writeFile);
 const puppeteer = require("puppeteer");
-// doc = new PDFDocument();
-// doc.pipe(fs.createWriteStream("output.pdf"));
-// // PDF Creation logic goes here
-
-// doc.fontSize(15).text("hello world", 50, 50);
-
-// doc.text(generateHTML(), {
-//   width: 410,
-//   align: "left"
-// });
-// doc.end();
-
+//function that employs inquirer to ask these questions for template set up
 function promptUser() {
   return inquirer.prompt([
     {
@@ -35,7 +25,7 @@ function promptUser() {
     }
   ]);
 }
-
+//this is the template and it calls on these specific paramaters
 function generateHTML(
   name,
   avatar_url,
@@ -86,7 +76,7 @@ function generateHTML(
   </html>
   `;
 }
-
+//this calls on the API and asks for the specific data
 async function profGEn() {
   try {
     const { name, favcolor } = await promptUser();
@@ -114,6 +104,8 @@ async function profGEn() {
     console.log(error);
   }
 }
+
+//this creates the pdf
 async function printPDF() {
   const browser = await puppeteer.launch({ headless: true });
   const page = await browser.newPage();
