@@ -1,5 +1,4 @@
-# Developer-Profile-Generator
-(https://remyguts.github.io/Developer-Profile-Generator/)
+# Developer-Profile-Generator (https://remyguts.github.io/Developer-Profile-Generator/)
 
 Command-line application that dynamically generates a PDF profile from a GitHub username
 
