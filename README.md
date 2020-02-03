@@ -18,15 +18,13 @@ SO THAT I can easily prepare reports for stakeholders
 When using the terminal, the user is prompted to enter their Github profile name, and favorite color. it then uses a Github API to generate user information ont a PDF file using an HTML template, as well as a functional website.  
 ### Content Flow
 
-![Adventure (1)](https://user-images.githubusercontent.com/56744605/72667729-e5880200-39d3-11ea-8d2e-cd7bac57257b.png)
 
-### Backend Functionality
 
-![alt text](newassets/AdventureFunctionality.png "Functionality back end")
+### Code 
 
-## User Interface
 
-On Load you are prompted to create a Username and Password
+
+
 
 ![alt text](newassets/LaunchModalUsername.png "Create a Username and password")
 
